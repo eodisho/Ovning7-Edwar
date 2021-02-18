@@ -1,0 +1,21 @@
+
+
+.center {
+    text-align: center;
+    color: green;
+}
+
+
+body {
+    background-color: lightyellow;
+}
+
+.footer {
+    background-color: rgb(255,0,0);
+	border: 50px;
+	color: yellow;
+}
+
+ul.a {
+  list-style-type: circle;
+}
