@@ -16,6 +16,12 @@ body {
 	color: yellow;
 }
 
-ul.a {
-  list-style-type: circle;
+ul#list {
+position: center;
+padding-top: 20px;
+ 
 }
+ 
+ul#listli {
+display: inline;
+    }
